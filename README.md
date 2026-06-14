@@ -56,5 +56,7 @@ This project demonstrates the use of Machine Learning and Natural Language Proce
 
 ## 👩‍💻 Author
 Simran Kaur
+<img width="1116" height="638" alt="27580" src="https://github.com/user-attachments/assets/f41fa0db-101e-4c07-b005-641e143d446d" />
+
 
 
